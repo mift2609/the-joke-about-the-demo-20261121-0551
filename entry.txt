@@ -1,0 +1,1 @@
+My AI agent wrote the demo, ran it live, and when it crashed it fixed itself before I could say 'but it worked in rehearsal.'
